@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#define _GNU_SOURCE
+>>>>>>> master
 #include "monty.h"
 bus_t bus = {NULL, NULL, NULL, 0};
 /**
